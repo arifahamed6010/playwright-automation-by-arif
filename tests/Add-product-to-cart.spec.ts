@@ -8,8 +8,6 @@ test('Add to Cart Test', async ({ page }) => {
 
   await page.getByText('View Cart').click();
 
-  await page.pause();
-
 });
 
 
