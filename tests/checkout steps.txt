@@ -1,0 +1,7 @@
+login
+
+add product
+
+cart page
+
+check out page

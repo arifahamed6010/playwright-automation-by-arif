@@ -1,0 +1,4 @@
+C:\Users\lenovo-pc\Playwright-automation-tests-using-TypeScript-with-real-world-scenarios\playwright-tests>
+
+
+npx playwright test tests/Signup.spec.ts --project=chromium --headed
